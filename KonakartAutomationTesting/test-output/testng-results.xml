@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63707" started-at="2019-10-14T15:09:06Z" finished-at="2019-10-14T15:10:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63707" started-at="2019-10-14T15:09:06Z" finished-at="2019-10-14T15:10:09Z">
+      <class name="com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="startReport" is-config="true" duration-ms="287" started-at="2019-10-14T15:09:05Z" finished-at="2019-10-14T15:09:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="intitailizeBrowser()[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="intitailizeBrowser" is-config="true" duration-ms="26541" started-at="2019-10-14T15:09:06Z" finished-at="2019-10-14T15:09:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitailizeBrowser -->
+        <test-method status="PASS" signature="heroImageSelect()[pri:1, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="heroImageSelect" duration-ms="4536" started-at="2019-10-14T15:09:32Z" finished-at="2019-10-14T15:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- heroImageSelect -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="tearDown" is-config="true" duration-ms="9" started-at="2019-10-14T15:09:37Z" finished-at="2019-10-14T15:09:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=heroImageSelect status=SUCCESS method=HeroImageFunctionality.heroImageSelect()[pri:1, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="heroImgContent([Ljava.lang.String;)[pri:2, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="heroImgContent" duration-ms="742" started-at="2019-10-14T15:09:38Z" data-provider="heroimage" finished-at="2019-10-14T15:09:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@aec50a1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- heroImgContent -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-10-14T15:09:39Z" finished-at="2019-10-14T15:09:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=heroImgContent status=SUCCESS method=HeroImageFunctionality.heroImgContent([Ljava.lang.String;)[pri:2, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="heroImgContent([Ljava.lang.String;)[pri:2, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="heroImgContent" duration-ms="36" started-at="2019-10-14T15:09:39Z" data-provider="heroimage" finished-at="2019-10-14T15:09:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2555fff0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- heroImgContent -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-10-14T15:09:39Z" finished-at="2019-10-14T15:09:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=heroImgContent status=SUCCESS method=HeroImageFunctionality.heroImgContent([Ljava.lang.String;)[pri:2, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="heroImgSortingDateFunctionality([Ljava.lang.String;)[pri:3, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="heroImgSortingDateFunctionality" duration-ms="14350" started-at="2019-10-14T15:09:39Z" data-provider="reviewdropdown" finished-at="2019-10-14T15:09:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@70d2e40b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- heroImgSortingDateFunctionality -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-10-14T15:09:53Z" finished-at="2019-10-14T15:09:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=heroImgSortingDateFunctionality status=SUCCESS method=HeroImageFunctionality.heroImgSortingDateFunctionality([Ljava.lang.String;)[pri:3, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="heroImgSortingRatingFunctionality([Ljava.lang.String;)[pri:4, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="heroImgSortingRatingFunctionality" duration-ms="15329" started-at="2019-10-14T15:09:53Z" data-provider="reviewdropdown" finished-at="2019-10-14T15:10:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@120f38e6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- heroImgSortingRatingFunctionality -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-10-14T15:10:08Z" finished-at="2019-10-14T15:10:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=heroImgSortingRatingFunctionality status=SUCCESS method=HeroImageFunctionality.heroImgSortingRatingFunctionality([Ljava.lang.String;)[pri:4, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="closeDriver" is-config="true" duration-ms="887" started-at="2019-10-14T15:10:08Z" finished-at="2019-10-14T15:10:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="endReport" is-config="true" duration-ms="434" started-at="2019-10-14T15:10:09Z" finished-at="2019-10-14T15:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
