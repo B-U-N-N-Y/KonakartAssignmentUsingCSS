@@ -7,9 +7,10 @@ import java.io.IOException;
 import java.util.Properties;
 
 /**
- * The class loads the data of the property file and returns the value associated with the kye 
- * in the property file. 
- * @author Sachin.Singh
+ * The class loads the data of the property file and returns the value
+ * associated with the kye in the property file.
+ * 
+ * @author arjun.santra
  *
  */
 
@@ -17,16 +18,17 @@ public class ReadPropertiesFile {
 	static Properties property;
 	static File file;
 	static FileReader reader;
-	
+
 	/**
-	 * methods takes parameter as
+	 * This method load property file.
+	 * 
 	 * @param filePath
-	 * @return the propeties of the property file
-	 * @throws IOException
+	 * @return the properties of the property file
+	 * 
 	 */
 
-	public static Properties loadProperty(String pathName)  {
-		property= new Properties();
+	public static Properties loadProperty(String pathName) {
+		property = new Properties();
 		file = new File(pathName);
 		try {
 			reader = new FileReader(file);

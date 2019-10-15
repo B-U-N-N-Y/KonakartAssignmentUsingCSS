@@ -25,6 +25,12 @@ import com.Konakart.KonakartAutomationTesting.testbase.TestBase;
 public class Utility extends TestBase {
 	public static WebElement element = null;
 
+	/**
+	 * This method takes as a string input and split it in into two part and
+	 * identify which type of locator it is according to that get the web element
+	 * 
+	 * @param locator
+	 */
 	public static void selectLocator(String locator) {
 
 		String[] loc = locator.split(",", 2);
@@ -57,6 +63,14 @@ public class Utility extends TestBase {
 		}
 
 	}
+
+	/**
+	 * method click the Element using the fluent wait concepts ignoring the
+	 * ElementClickInterceptedException.
+	 * 
+	 * 
+	 * @param locator
+	 */
 
 	public static void clickElement(final String locator) {
 		try {
@@ -128,6 +142,7 @@ public class Utility extends TestBase {
 	}
 
 	/**
+	 * This method take the string as a input and return the web element
 	 * 
 	 * @param locator
 	 * @return web element
@@ -228,8 +243,8 @@ public class Utility extends TestBase {
 	}
 
 	/**
-	 * Method scrolls down the window resolution until the view of webelement is not
-	 * found
+	 * Method scrolls down the window resolution until the view of web element is
+	 * not found
 	 * 
 	 * 
 	 * @param locator
@@ -266,7 +281,7 @@ public class Utility extends TestBase {
 	}
 
 	/**
-	 * method select the dropdown and select the Element by index, using the fluent
+	 * method select the drop down and select the Element by index, using the fluent
 	 * wait concepts ignoring the ElementClickInterceptedException.
 	 * 
 	 * @param locator
@@ -305,7 +320,7 @@ public class Utility extends TestBase {
 			selectLocator(locator);
 			Actions move = new Actions(driver);
 			move.clickAndHold(element).dragAndDropBy(element, xOffset, 0).build().perform();
-
+			//element.click();
 		} catch (Exception exception) {
 
 			System.out.println("slider bar is not working");
@@ -315,14 +330,14 @@ public class Utility extends TestBase {
 
 	/**
 	 * 
+	 * This method take a input as a string and return a list of web elements
 	 * 
-	 * 
-	 * @param locators
+	 * @param locator
 	 * @return the list of elements
 	 */
 
-	public static List<WebElement> getElementsList(final String locators) {
-		String[] loc = locators.split(",");
+	public static List<WebElement> getElementsList(final String locator) {
+		String[] loc = locator.split(",");
 		List<WebElement> element;
 		if ((loc[0].toUpperCase()).equalsIgnoreCase("CSS")) {
 			element = driver.findElements(By.cssSelector(loc[1]));

@@ -16,7 +16,7 @@ public class PriceSlideBarFunctionality extends TestBase {
 	public static Logger log;
 	Properties loc=ReadPropertiesFile.loadProperty(FilePath.LOCATOR_FILE);
 
-	@Test(priority = 8, dataProvider = "priceslidebar", dataProviderClass = TestDataProvider.class)
+	@Test(priority = 9, dataProvider = "priceslidebar", dataProviderClass = TestDataProvider.class)
 	public void priceSlideBar(String xoffset) {
 		log = Logger.getLogger(PriceSlideBarFunctionality.class);
 		logger = extent.startTest("Price slidebar functionality validation");

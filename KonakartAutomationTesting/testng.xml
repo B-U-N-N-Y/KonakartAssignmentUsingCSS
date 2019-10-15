@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-  <suite-files>
-  <suite-file path="./src\test\resources\suitefiles\dummy.xml"/>
-  </suite-files>
+	<test thread-count="1" name="HomePageSearchBoxFunctionality">
+		<classes>
+			<class
+				name="com.Konakart.KonakartAutomationTesting.testscripts.HomePageSearchBoxFunctionality" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test thread-count="1" name="HeroImageFunctionality">
+		<classes>
+			<class
+				name="com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test thread-count="1" name="ComuterPeripheralsFunctionality">
+		<classes>
+			<class
+				name="com.Konakart.KonakartAutomationTesting.testscripts.ComuterPeripheralsFunctionality" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test thread-count="1" name="PriceSlideBarFunctionality">
+		<classes>
+			<class
+				name="com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality" />
+		</classes>
+	</test> <!-- Test -->
 </suite> <!-- Suite -->
+
+
+

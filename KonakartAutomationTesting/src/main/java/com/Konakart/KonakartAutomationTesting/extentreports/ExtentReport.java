@@ -97,10 +97,10 @@ public class ExtentReport {
 	/**
 	 * This method quit the driver after every test
 	 */
-	@AfterTest
-	public void closeDriver() {
-		driver.quit();
-	}
+//	@AfterTest
+//	public void closeDriver() {
+//		driver.quit();
+//	}
 	/**
 	 * This method print message in extent report
 	 * @param message

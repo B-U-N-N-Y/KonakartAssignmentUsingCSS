@@ -6,16 +6,25 @@ import java.util.Iterator;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 
-
-
+/**
+ * This class load the excel file.
+ * 
+ * @author arjun.santra
+ *
+ */
 public class ProvideData {
 	Object[][] object;
 	ReadExcelFile provider;
 
-	public ProvideData(String filepath,int sheetindex) {
-		provider = new ReadExcelFile(filepath,sheetindex);
+	public ProvideData(String filepath, int sheetindex) {
+		provider = new ReadExcelFile(filepath, sheetindex);
 	}
 
+	/**
+	 * This method return the excel file data in object array format
+	 * 
+	 * @return object array
+	 */
 	public Object[][] provideData() {
 
 		Iterator<Row> rows = null;
@@ -23,10 +32,10 @@ public class ProvideData {
 			rows = provider.getData();
 
 			int noOfRows = provider.getNoOfRows();
-			//System.out.println(noOfRows);
+			// System.out.println(noOfRows);
 			int noOfColumns = provider.getNoOfColumns();
-			//System.out.println(noOfColumns);
-			object = new Object[noOfRows-1][noOfColumns];
+			// System.out.println(noOfColumns);
+			object = new Object[noOfRows - 1][noOfColumns];
 
 		} catch (IOException e) {
 			System.out.println("Exception");

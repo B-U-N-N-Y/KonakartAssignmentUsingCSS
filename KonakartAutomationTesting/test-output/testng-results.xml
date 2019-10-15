@@ -1,132 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="63707" started-at="2019-10-14T15:09:06Z" finished-at="2019-10-14T15:10:09Z">
+  <suite name="Default suite" duration-ms="56302" started-at="2019-10-15T10:57:07Z" finished-at="2019-10-15T10:58:03Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="63707" started-at="2019-10-14T15:09:06Z" finished-at="2019-10-14T15:10:09Z">
-      <class name="com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality">
-        <test-method status="PASS" signature="startReport()[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="startReport" is-config="true" duration-ms="287" started-at="2019-10-14T15:09:05Z" finished-at="2019-10-14T15:09:06Z">
+    <test name="Default test" duration-ms="56302" started-at="2019-10-15T10:57:07Z" finished-at="2019-10-15T10:58:03Z">
+      <class name="com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality@42e26948]" name="startReport" is-config="true" duration-ms="268" started-at="2019-10-15T10:57:06Z" finished-at="2019-10-15T10:57:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startReport -->
-        <test-method status="PASS" signature="intitailizeBrowser()[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="intitailizeBrowser" is-config="true" duration-ms="26541" started-at="2019-10-14T15:09:06Z" finished-at="2019-10-14T15:09:32Z">
+        <test-method status="PASS" signature="intitailizeBrowser()[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality@42e26948]" name="intitailizeBrowser" is-config="true" duration-ms="20450" started-at="2019-10-15T10:57:07Z" finished-at="2019-10-15T10:57:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intitailizeBrowser -->
-        <test-method status="PASS" signature="heroImageSelect()[pri:1, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="heroImageSelect" duration-ms="4536" started-at="2019-10-14T15:09:32Z" finished-at="2019-10-14T15:09:37Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- heroImageSelect -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="tearDown" is-config="true" duration-ms="9" started-at="2019-10-14T15:09:37Z" finished-at="2019-10-14T15:09:37Z">
+        <test-method status="PASS" signature="priceSlideBar(java.lang.String)[pri:9, instance:com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality@42e26948]" name="priceSlideBar" duration-ms="13120" started-at="2019-10-15T10:57:28Z" data-provider="priceslidebar" finished-at="2019-10-15T10:57:41Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=heroImageSelect status=SUCCESS method=HeroImageFunctionality.heroImageSelect()[pri:1, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf] output={null}]]]>
+                <![CDATA[25]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceSlideBar -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality@42e26948]" name="tearDown" is-config="true" duration-ms="5" started-at="2019-10-15T10:57:41Z" finished-at="2019-10-15T10:57:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=priceSlideBar status=SUCCESS method=PriceSlideBarFunctionality.priceSlideBar(java.lang.String)[pri:9, instance:com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality@42e26948] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="heroImgContent([Ljava.lang.String;)[pri:2, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="heroImgContent" duration-ms="742" started-at="2019-10-14T15:09:38Z" data-provider="heroimage" finished-at="2019-10-14T15:09:39Z">
+        <test-method status="PASS" signature="priceSlideBar(java.lang.String)[pri:9, instance:com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality@42e26948]" name="priceSlideBar" duration-ms="7828" started-at="2019-10-15T10:57:41Z" data-provider="priceslidebar" finished-at="2019-10-15T10:57:49Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[Ljava.lang.String;@aec50a1]]>
+                <![CDATA[50]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- heroImgContent -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-10-14T15:09:39Z" finished-at="2019-10-14T15:09:39Z">
+        </test-method> <!-- priceSlideBar -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality@42e26948]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-10-15T10:57:49Z" finished-at="2019-10-15T10:57:49Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=heroImgContent status=SUCCESS method=HeroImageFunctionality.heroImgContent([Ljava.lang.String;)[pri:2, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="heroImgContent([Ljava.lang.String;)[pri:2, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="heroImgContent" duration-ms="36" started-at="2019-10-14T15:09:39Z" data-provider="heroimage" finished-at="2019-10-14T15:09:39Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[Ljava.lang.String;@2555fff0]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- heroImgContent -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-10-14T15:09:39Z" finished-at="2019-10-14T15:09:39Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=heroImgContent status=SUCCESS method=HeroImageFunctionality.heroImgContent([Ljava.lang.String;)[pri:2, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf] output={null}]]]>
+                <![CDATA[[TestResult name=priceSlideBar status=SUCCESS method=PriceSlideBarFunctionality.priceSlideBar(java.lang.String)[pri:9, instance:com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality@42e26948] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="heroImgSortingDateFunctionality([Ljava.lang.String;)[pri:3, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="heroImgSortingDateFunctionality" duration-ms="14350" started-at="2019-10-14T15:09:39Z" data-provider="reviewdropdown" finished-at="2019-10-14T15:09:53Z">
+        <test-method status="PASS" signature="priceSlideBar(java.lang.String)[pri:9, instance:com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality@42e26948]" name="priceSlideBar" duration-ms="6809" started-at="2019-10-15T10:57:49Z" data-provider="priceslidebar" finished-at="2019-10-15T10:57:56Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[Ljava.lang.String;@70d2e40b]]>
+                <![CDATA[75]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- heroImgSortingDateFunctionality -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-10-14T15:09:53Z" finished-at="2019-10-14T15:09:53Z">
+        </test-method> <!-- priceSlideBar -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality@42e26948]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-10-15T10:57:56Z" finished-at="2019-10-15T10:57:56Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=heroImgSortingDateFunctionality status=SUCCESS method=HeroImageFunctionality.heroImgSortingDateFunctionality([Ljava.lang.String;)[pri:3, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="heroImgSortingRatingFunctionality([Ljava.lang.String;)[pri:4, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="heroImgSortingRatingFunctionality" duration-ms="15329" started-at="2019-10-14T15:09:53Z" data-provider="reviewdropdown" finished-at="2019-10-14T15:10:08Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[Ljava.lang.String;@120f38e6]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- heroImgSortingRatingFunctionality -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-10-14T15:10:08Z" finished-at="2019-10-14T15:10:08Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=heroImgSortingRatingFunctionality status=SUCCESS method=HeroImageFunctionality.heroImgSortingRatingFunctionality([Ljava.lang.String;)[pri:4, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf] output={null}]]]>
+                <![CDATA[[TestResult name=priceSlideBar status=SUCCESS method=PriceSlideBarFunctionality.priceSlideBar(java.lang.String)[pri:9, instance:com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality@42e26948] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="closeDriver" is-config="true" duration-ms="887" started-at="2019-10-14T15:10:08Z" finished-at="2019-10-14T15:10:09Z">
+        <test-method status="PASS" signature="priceSlideBar(java.lang.String)[pri:9, instance:com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality@42e26948]" name="priceSlideBar" duration-ms="6916" started-at="2019-10-15T10:57:56Z" data-provider="priceslidebar" finished-at="2019-10-15T10:58:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- closeDriver -->
-        <test-method status="PASS" signature="endReport()[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality@57baeedf]" name="endReport" is-config="true" duration-ms="434" started-at="2019-10-14T15:10:09Z" finished-at="2019-10-14T15:10:10Z">
+        </test-method> <!-- priceSlideBar -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality@42e26948]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-10-15T10:58:03Z" finished-at="2019-10-15T10:58:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=priceSlideBar status=SUCCESS method=PriceSlideBarFunctionality.priceSlideBar(java.lang.String)[pri:9, instance:com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality@42e26948] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality@42e26948]" name="endReport" is-config="true" duration-ms="401" started-at="2019-10-15T10:58:03Z" finished-at="2019-10-15T10:58:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endReport -->
-      </class> <!-- com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality -->
+      </class> <!-- com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

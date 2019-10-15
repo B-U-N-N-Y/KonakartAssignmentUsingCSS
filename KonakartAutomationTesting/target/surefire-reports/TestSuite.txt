@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 371.009 s <<< FAILURE! - in TestSuite
+heroImgContent(com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality)  Time elapsed: 0.88 s  <<< FAILURE!
+org.openqa.selenium.StaleElementReferenceException: 
+Element is no longer valid
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-087', ip: '55.55.52.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: https://www.konakart.com/ko..., nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: c133cc0b-f075-4081-b51b-078095bbd0f5
+	at com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality.heroImgContent(HeroImageFunctionality.java:32)
+
+heroImgSortingDateFunctionality(com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality)  Time elapsed: 7.235 s  <<< FAILURE!
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality.heroImgSortingDateFunctionality(HeroImageFunctionality.java:41)
+

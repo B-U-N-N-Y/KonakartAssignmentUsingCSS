@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="PriceSlideBarFunctionality(failed)">
+    <classes>
+      <class name="com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality">
+        <methods>
+          <include name="tearDown"/>
+          <include name="endReport"/>
+          <include name="intitailizeBrowser"/>
+          <include name="startReport"/>
+          <include name="priceSlideBar" invocation-numbers="2"/>
+          <include name="closeDriver"/>
+        </methods>
+      </class> <!-- com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality -->
+    </classes>
+  </test> <!-- PriceSlideBarFunctionality(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -10,7 +10,12 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-import com.Konakart.KonakartAutomationTesting.constants.FilePath;
+/**
+ * This class read the excel file data.
+ * 
+ * @author arjun.santra
+ *
+ */
 public class ReadExcelFile {
 	static FileInputStream fis = null;
 	static XSSFWorkbook workbook = null;
@@ -22,7 +27,7 @@ public class ReadExcelFile {
 	 *                 file and initializes the workbook
 	 */
 
-	public ReadExcelFile(String filepath,int sheetindex) {
+	public ReadExcelFile(String filepath, int sheetindex) {
 		try {
 			fis = new FileInputStream(new File(filepath));
 		} catch (FileNotFoundException e) {

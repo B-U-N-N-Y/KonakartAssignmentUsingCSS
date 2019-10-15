@@ -15,6 +15,12 @@ import com.Konakart.KonakartAutomationTesting.extentreports.ExtentReport;
 import com.Konakart.KonakartAutomationTesting.helpers.Utility;
 import com.Konakart.KonakartAutomationTesting.logreports.LogReport;
 
+/**
+ * This class check the functionality of hero image.
+ * 
+ * @author arjun.santra
+ *
+ */
 public class HeroImageFunction {
 
 	static LogReport logreport = new LogReport();
@@ -42,6 +48,7 @@ public class HeroImageFunction {
 	 * 
 	 * @param validatedata
 	 * @param log
+	 * @param loc
 	 */
 	private static void specificationValidation(String validatedata, Logger log, Properties loc) {
 		Utility.clickElement(loc.getProperty("loc.konakart.heroimg.specification.btn"));
@@ -58,6 +65,7 @@ public class HeroImageFunction {
 	 * 
 	 * @param validatedata
 	 * @param log
+	 * @param loc
 	 */
 	private static void pageDescriptionvalidation(String validatedata, Logger log, Properties loc) {
 		Utility.scrollDownPage(0, 300);
@@ -73,6 +81,7 @@ public class HeroImageFunction {
 	 * 
 	 * @param sortingorder
 	 * @param log
+	 * @param loc
 	 */
 	public static void sortingDateValidation(String sortingoption, Logger log, Properties loc) {
 
@@ -85,6 +94,7 @@ public class HeroImageFunction {
 			String string2 = Utility
 					.getElement(loc.getProperty("loc.konakart.reviewdates").replace("index", (index + 1) + ""))
 					.getText();
+			System.out.println(string1+"   "+string2);
 			String split1[] = string1.split(" ", 2);
 			String split2[] = string2.split(" ", 2);
 			if (split1[1].substring(1, 2).equals(" ")) {
@@ -112,9 +122,10 @@ public class HeroImageFunction {
 	}
 
 	/**
-	 * This method to select dropdown option by index
+	 * This method to select drop down option by index
 	 * 
 	 * @param index
+	 * @param loc
 	 */
 	public static void heroImgSortOption(String sortingoption, Properties loc) {
 		Utility.scrollDownPage(0, 200);
@@ -134,27 +145,26 @@ public class HeroImageFunction {
 	 * 
 	 * @param sortOrder
 	 * @param log
+	 * @param loc
 	 */
-	public static void starRatingValidation(String sortingoption, Logger log,Properties loc) {
-		List<WebElement> elements = Utility
-				.getElementsList(loc.getProperty("loc.konakart.reviewcount"));
+	public static void starRatingValidation(String sortingoption, Logger log, Properties loc) {
+		List<WebElement> elements = Utility.getElementsList(loc.getProperty("loc.konakart.reviewcount"));
 		int loopCount = elements.size();
 		for (int index = 1; index < loopCount; index++) {
-			int count1 = Utility.getElementsList(
-					loc.getProperty("loc.konakart.ratingcount.txt").replace("index", index + ""))
+			int count1 = Utility
+					.getElementsList(loc.getProperty("loc.konakart.ratingcount.txt").replace("index", index + ""))
 					.size();
-			int count2 = Utility.getElementsList(loc
-					.getProperty("loc.konakart.ratingcount.txt").replace("index", (index + 1) + "")).size();
+			int count2 = Utility
+					.getElementsList(loc.getProperty("loc.konakart.ratingcount.txt").replace("index", (index + 1) + ""))
+					.size();
 			int difference = count1 - count2;
-			if (sortingoption.equalsIgnoreCase(Utility
-					.getElement(loc.getProperty("loc.konakart.sortbyratinghightolow.txt"))
-					.getText())) {
+			if (sortingoption.equalsIgnoreCase(
+					Utility.getElement(loc.getProperty("loc.konakart.sortbyratinghightolow.txt")).getText())) {
 				Assert.assertTrue(difference >= 0, "Sorting Functionality Failed");
 				ExtentReport.messagePrint("Sorting by rating Functionality Working Properly");
 				log.info("Sorting by rating Functionality Working Properly");
-			} else if (sortingoption.equalsIgnoreCase(Utility
-					.getElement(loc.getProperty("loc.konakart.sortbyratinglowtohigh.txt"))
-					.getText())) {
+			} else if (sortingoption.equalsIgnoreCase(
+					Utility.getElement(loc.getProperty("loc.konakart.sortbyratinglowtohigh.txt")).getText())) {
 				Assert.assertTrue(difference <= 0, "Sorting Functionality Failed");
 				ExtentReport.messagePrint("Sorting by rating Functionality Working Properly");
 				log.info("Sorting by rating Functionality Working Properly");

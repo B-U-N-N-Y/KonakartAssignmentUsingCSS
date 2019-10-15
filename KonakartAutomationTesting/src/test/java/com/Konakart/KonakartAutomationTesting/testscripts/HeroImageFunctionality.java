@@ -17,14 +17,14 @@ public class HeroImageFunctionality extends TestBase {
 	public static Logger log;
 	Properties loc=ReadPropertiesFile.loadProperty(FilePath.LOCATOR_FILE);
 
-	@Test(priority = 1)
+	@Test(priority = 2)
 	public void heroImageSelect() {
 		log = Logger.getLogger(HeroImageFunctionality.class);
 		logger = extent.startTest("Hero image Select");
 		Utility.clickElement(loc.getProperty("loc.konakart.heroimg.btn"));
 	}
 
-	@Test(priority = 2, dataProvider = "heroimage", dataProviderClass = TestDataProvider.class)
+	@Test(priority = 3, dataProvider = "heroimage", dataProviderClass = TestDataProvider.class)
 	public void heroImgContent(String[] data) {
 		log = Logger.getLogger(HeroImageFunctionality.class);
 		logger = extent.startTest("Hero image content validation");
@@ -33,7 +33,7 @@ public class HeroImageFunctionality extends TestBase {
 
 	}
 
-	@Test(priority = 3, dataProvider = "reviewdropdown", dataProviderClass = TestDataProvider.class)
+	@Test(priority = 4, dataProvider = "reviewdropdown", dataProviderClass = TestDataProvider.class)
 	public void heroImgSortingDateFunctionality(String[] data) {
 		log = Logger.getLogger(HeroImageFunctionality.class);
 		logger = extent.startTest("Hero image sorting validation by date");
@@ -43,7 +43,7 @@ public class HeroImageFunctionality extends TestBase {
 		HeroImageFunction.sortingDateValidation(data[1], log,loc);
 	}
 
-	@Test(priority = 4, dataProvider = "reviewdropdown", dataProviderClass = TestDataProvider.class)
+	@Test(priority = 5, dataProvider = "reviewdropdown", dataProviderClass = TestDataProvider.class)
 	public void heroImgSortingRatingFunctionality(String[] data) {
 		log = Logger.getLogger(HeroImageFunctionality.class);
 		logger = extent.startTest("Hero image sorting validation by rating");

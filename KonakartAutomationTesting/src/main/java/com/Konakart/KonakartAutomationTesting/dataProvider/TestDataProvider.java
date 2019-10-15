@@ -10,8 +10,10 @@ import com.Konakart.KonakartAutomationTesting.utils.ProvideData;
  */
 public class TestDataProvider {
 	/**
-	 * In this method, getting the More info button data object array and returning
-	 * to the calling method
+	 * In this method, getting the home page search box data object array and
+	 * returning to the calling method
+	 * 
+	 * @return object array
 	 */
 
 	@DataProvider(name = "searchbox")
@@ -22,10 +24,11 @@ public class TestDataProvider {
 	}
 
 	/**
-	 * In this method, getting the Explore now button data into object array and
-	 * returning to the calling method
+	 * In this method, getting the hero image data into object array and returning
+	 * to the calling method
+	 * 
+	 * @return object array
 	 */
-
 	@DataProvider(name = "heroimage")
 	public Object[][] getHeroImgData() {
 		ProvideData provideData = new ProvideData(FilePath.TESTDATA_FILE, 1);
@@ -33,7 +36,12 @@ public class TestDataProvider {
 		return getData;
 	}
 
-	
+	/**
+	 * In this method, getting the review drop down data into object array and
+	 * returning to the calling method
+	 * 
+	 * @return object array
+	 */
 	@DataProvider(name = "reviewdropdown")
 	public Object[][] getReviewDropdown() {
 		ProvideData provideData = new ProvideData(FilePath.TESTDATA_FILE, 2);
@@ -41,6 +49,12 @@ public class TestDataProvider {
 		return getData;
 	}
 
+	/**
+	 * In this method, getting the graphics cards option data into object array and
+	 * returning to the calling method
+	 * 
+	 * @return object array
+	 */
 	@DataProvider(name = "graphicsoption")
 	public Object[][] getSearchGraphics() {
 		ProvideData provideData = new ProvideData(FilePath.TESTDATA_FILE, 3);
@@ -48,12 +62,25 @@ public class TestDataProvider {
 		return getData;
 	}
 
+	/**
+	 * In this method, getting the product details data into object array and
+	 * returning to the calling method
+	 * 
+	 * @return object array
+	 */
 	@DataProvider(name = "product details")
 	public Object[][] getProductValues() {
 		ProvideData provideData = new ProvideData(FilePath.TESTDATA_FILE, 4);
 		Object[][] getData = provideData.provideData();
 		return getData;
 	}
+
+	/**
+	 * In this method, getting the price slide bar data data into object array and
+	 * returning to the calling method
+	 * 
+	 * @return object array
+	 */
 
 	@DataProvider(name = "priceslidebar")
 	public Object[][] getPriceSlideValue() {

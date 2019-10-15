@@ -304,3 +304,669 @@
 2019-10-14 20:40:10,291 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2019-10-14 20:40:10,291 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2019-10-14 20:40:10,292 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 12:00:56,651  INFO [main] HomePageSearchBoxFunctionality:45 - Page is redirecting to proper web page
+2019-10-15 12:00:59,273  INFO [main] HomePageSearchBoxFunctionality:61 - Product title validate successfully
+2019-10-15 12:01:02,587  INFO [main] HomePageSearchBoxFunctionality:80 - Negative input validation passed
+2019-10-15 12:01:05,959 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 12:01:05,960 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 12:01:05,962 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 12:01:05,963 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 12:01:05,964 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 12:01:06,255 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 12:01:06,256 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 12:01:06,256 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 12:01:06,257 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 12:01:06,257 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 12:03:04,919  INFO [main] HomePageSearchBoxFunctionality:45 - Page is redirecting to proper web page
+2019-10-15 12:03:07,277  INFO [main] HomePageSearchBoxFunctionality:61 - Product title validate successfully
+2019-10-15 12:03:11,871  INFO [main] HomePageSearchBoxFunctionality:80 - Negative input validation passed
+2019-10-15 12:03:15,541 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 12:03:15,543 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 12:03:15,545 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 12:03:15,547 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 12:03:15,547 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 12:03:15,935 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 12:03:15,936 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 12:03:15,937 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 12:03:15,938 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 12:03:15,939 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 12:04:41,917  INFO [main] HomePageSearchBoxFunctionality:45 - Page is redirecting to proper web page
+2019-10-15 12:04:45,612  INFO [main] HomePageSearchBoxFunctionality:61 - Product title validate successfully
+2019-10-15 12:04:49,037  INFO [main] HomePageSearchBoxFunctionality:80 - Negative input validation passed
+2019-10-15 12:05:16,092 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 12:05:16,093 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 12:05:16,095 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 12:05:16,096 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 12:05:16,097 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 12:05:16,443 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 12:05:16,444 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 12:05:16,445 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 12:05:16,446 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 12:05:16,446 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 12:06:57,454  INFO [main] HomePageSearchBoxFunctionality:45 - Page is redirecting to proper web page
+2019-10-15 12:07:00,167  INFO [main] HomePageSearchBoxFunctionality:61 - Product title validate successfully
+2019-10-15 12:07:02,989  INFO [main] HomePageSearchBoxFunctionality:80 - Negative input validation passed
+2019-10-15 12:07:24,449 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 12:07:24,451 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 12:07:24,453 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 12:07:24,455 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 12:07:24,456 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 12:07:24,879 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 12:07:24,880 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 12:07:24,880 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 12:07:24,881 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 12:07:24,882 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 12:14:24,871  INFO [main] HomePageSearchBoxFunctionality:45 - Page is redirecting to proper web page
+2019-10-15 12:14:27,997  INFO [main] HomePageSearchBoxFunctionality:61 - Product title validate successfully
+2019-10-15 12:14:31,325  INFO [main] HomePageSearchBoxFunctionality:80 - Negative input validation passed
+2019-10-15 12:14:52,501  INFO [main] HeroImageFunctionality:76 - description validate successfully
+2019-10-15 12:14:52,773  INFO [main] HeroImageFunctionality:60 - specification validate successfully
+2019-10-15 12:14:58,780  INFO [main] HeroImageFunctionality:112 - Sorting by date Functionality Working Properly
+2019-10-15 12:14:59,026  INFO [main] HeroImageFunctionality:112 - Sorting by date Functionality Working Properly
+2019-10-15 12:15:07,612  INFO [main] HeroImageFunctionality:117 - Sorting by date Functionality Working Properly
+2019-10-15 12:15:07,927  INFO [main] HeroImageFunctionality:117 - Sorting by date Functionality Working Properly
+2019-10-15 12:15:15,515  INFO [main] HeroImageFunctionality:164 - Sorting by rating Functionality Working Properly
+2019-10-15 12:15:15,663  INFO [main] HeroImageFunctionality:164 - Sorting by rating Functionality Working Properly
+2019-10-15 12:15:23,043  INFO [main] HeroImageFunctionality:169 - Sorting by rating Functionality Working Properly
+2019-10-15 12:15:23,247  INFO [main] HeroImageFunctionality:169 - Sorting by rating Functionality Working Properly
+2019-10-15 12:15:42,498  INFO [main] ComuterPeripheralsFunctionality:35 - Error Message validate successfully
+2019-10-15 12:15:50,202  INFO [main] ComuterPeripheralsFunctionality:54 - Product title validate successfully
+2019-10-15 12:15:50,202  INFO [main] ComuterPeripheralsFunctionality:57 - Product price validate successfully
+2019-10-15 12:15:50,284  INFO [main] ComuterPeripheralsFunctionality:54 - Product title validate successfully
+2019-10-15 12:15:50,285  INFO [main] ComuterPeripheralsFunctionality:57 - Product price validate successfully
+2019-10-15 12:16:20,715  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:16:20,748  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:16:20,787  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:16:20,828  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:16:30,253  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:16:30,294  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:16:30,340  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:16:39,190  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:16:39,225  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:16:39,268  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:16:47,948  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:16:48,844 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 12:16:48,846 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 12:16:48,848 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 12:16:48,849 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 12:16:48,850 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 12:16:49,154 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 12:16:49,155 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 12:16:49,156 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 12:16:49,157 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 12:16:49,158 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 12:21:28,979  INFO [main] HomePageSearchBoxFunctionality:45 - Page is redirecting to proper web page
+2019-10-15 12:21:32,665  INFO [main] HomePageSearchBoxFunctionality:61 - Product title validate successfully
+2019-10-15 12:21:40,228  INFO [main] HomePageSearchBoxFunctionality:80 - Negative input validation passed
+2019-10-15 12:22:08,283  INFO [main] HeroImageFunctionality:76 - description validate successfully
+2019-10-15 12:22:08,561  INFO [main] HeroImageFunctionality:60 - specification validate successfully
+2019-10-15 12:22:14,667  INFO [main] HeroImageFunctionality:112 - Sorting by date Functionality Working Properly
+2019-10-15 12:22:14,907  INFO [main] HeroImageFunctionality:112 - Sorting by date Functionality Working Properly
+2019-10-15 12:22:23,287  INFO [main] HeroImageFunctionality:117 - Sorting by date Functionality Working Properly
+2019-10-15 12:22:23,657  INFO [main] HeroImageFunctionality:117 - Sorting by date Functionality Working Properly
+2019-10-15 12:22:31,476  INFO [main] HeroImageFunctionality:164 - Sorting by rating Functionality Working Properly
+2019-10-15 12:22:31,689  INFO [main] HeroImageFunctionality:164 - Sorting by rating Functionality Working Properly
+2019-10-15 12:22:39,439  INFO [main] HeroImageFunctionality:169 - Sorting by rating Functionality Working Properly
+2019-10-15 12:22:39,655  INFO [main] HeroImageFunctionality:169 - Sorting by rating Functionality Working Properly
+2019-10-15 12:22:58,824  INFO [main] ComuterPeripheralsFunctionality:35 - Error Message validate successfully
+2019-10-15 12:23:06,653  INFO [main] ComuterPeripheralsFunctionality:54 - Product title validate successfully
+2019-10-15 12:23:06,654  INFO [main] ComuterPeripheralsFunctionality:57 - Product price validate successfully
+2019-10-15 12:23:06,768  INFO [main] ComuterPeripheralsFunctionality:54 - Product title validate successfully
+2019-10-15 12:23:06,769  INFO [main] ComuterPeripheralsFunctionality:57 - Product price validate successfully
+2019-10-15 12:23:40,130  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:23:40,175  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:23:40,225  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:23:40,280  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:23:52,247  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:23:52,281  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:23:52,320  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:24:01,705  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:24:01,737  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:24:01,770  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:24:11,119  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:24:12,112 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 12:24:12,114 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 12:24:12,118 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 12:24:12,120 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 12:24:12,120 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 12:24:12,626 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 12:24:12,627 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 12:24:12,628 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 12:24:12,629 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 12:24:12,629 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 12:52:33,667  INFO [main] HomePageSearchBoxFunctionality:45 - Page is redirecting to proper web page
+2019-10-15 12:53:39,722  INFO [main] HomePageSearchBoxFunctionality:61 - Product title validate successfully
+2019-10-15 12:54:15,175  INFO [main] HomePageSearchBoxFunctionality:80 - Negative input validation passed
+2019-10-15 12:56:16,436  INFO [main] ComuterPeripheralsFunctionality:35 - Error Message validate successfully
+2019-10-15 12:57:37,812  INFO [main] ComuterPeripheralsFunctionality:54 - Product title validate successfully
+2019-10-15 12:57:37,813  INFO [main] ComuterPeripheralsFunctionality:57 - Product price validate successfully
+2019-10-15 12:57:38,203  INFO [main] ComuterPeripheralsFunctionality:54 - Product title validate successfully
+2019-10-15 12:57:38,204  INFO [main] ComuterPeripheralsFunctionality:57 - Product price validate successfully
+2019-10-15 12:57:54,662  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:57:54,833  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:57:55,025  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:57:55,198  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:58:06,436  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:58:06,600  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:58:06,747  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:58:19,459  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:58:19,614  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:58:19,758  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:58:31,228  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 12:58:31,915 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 12:58:31,918 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 12:58:31,923 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 12:58:31,926 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 12:58:31,930 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 12:58:32,273 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 12:58:32,274 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 12:58:32,275 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 12:58:32,276 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 12:58:32,276 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 13:00:59,390 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 13:00:59,393 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 13:00:59,396 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 13:00:59,398 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 13:00:59,399 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 13:00:59,697 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 13:00:59,698 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 13:00:59,698 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 13:00:59,699 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 13:00:59,699 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 14:30:32,644  INFO [main] HeroImageFunctionality:76 - description validate successfully
+2019-10-15 14:30:34,455  INFO [main] HeroImageFunctionality:60 - specification validate successfully
+2019-10-15 14:30:43,743  INFO [main] HeroImageFunctionality:112 - Sorting by date Functionality Working Properly
+2019-10-15 14:30:44,863  INFO [main] HeroImageFunctionality:112 - Sorting by date Functionality Working Properly
+2019-10-15 14:30:46,223  INFO [main] HeroImageFunctionality:112 - Sorting by date Functionality Working Properly
+2019-10-15 14:30:55,044  INFO [main] HeroImageFunctionality:117 - Sorting by date Functionality Working Properly
+2019-10-15 14:30:57,467  INFO [main] HeroImageFunctionality:117 - Sorting by date Functionality Working Properly
+2019-10-15 14:30:59,589  INFO [main] HeroImageFunctionality:117 - Sorting by date Functionality Working Properly
+2019-10-15 14:31:07,640  INFO [main] HeroImageFunctionality:164 - Sorting by rating Functionality Working Properly
+2019-10-15 14:31:08,492  INFO [main] HeroImageFunctionality:164 - Sorting by rating Functionality Working Properly
+2019-10-15 14:31:09,520  INFO [main] HeroImageFunctionality:164 - Sorting by rating Functionality Working Properly
+2019-10-15 14:31:19,039  INFO [main] HeroImageFunctionality:169 - Sorting by rating Functionality Working Properly
+2019-10-15 14:31:21,087  INFO [main] HeroImageFunctionality:169 - Sorting by rating Functionality Working Properly
+2019-10-15 14:31:22,748  INFO [main] HeroImageFunctionality:169 - Sorting by rating Functionality Working Properly
+2019-10-15 14:31:23,595 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 14:31:23,599 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 14:31:23,599 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 14:31:23,603 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 14:31:23,603 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 14:31:23,953 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 14:31:23,955 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 14:31:23,955 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 14:31:23,956 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 14:31:23,957 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 14:33:28,586  INFO [main] HeroImageFunctionality:76 - description validate successfully
+2019-10-15 14:33:29,034  INFO [main] HeroImageFunctionality:60 - specification validate successfully
+2019-10-15 14:33:35,472  INFO [main] HeroImageFunctionality:112 - Sorting by date Functionality Working Properly
+2019-10-15 14:33:35,676  INFO [main] HeroImageFunctionality:112 - Sorting by date Functionality Working Properly
+2019-10-15 14:33:35,916  INFO [main] HeroImageFunctionality:112 - Sorting by date Functionality Working Properly
+2019-10-15 14:33:45,411  INFO [main] HeroImageFunctionality:117 - Sorting by date Functionality Working Properly
+2019-10-15 14:33:45,744  INFO [main] HeroImageFunctionality:117 - Sorting by date Functionality Working Properly
+2019-10-15 14:33:46,076  INFO [main] HeroImageFunctionality:117 - Sorting by date Functionality Working Properly
+2019-10-15 14:33:55,454  INFO [main] HeroImageFunctionality:164 - Sorting by rating Functionality Working Properly
+2019-10-15 14:33:55,649  INFO [main] HeroImageFunctionality:164 - Sorting by rating Functionality Working Properly
+2019-10-15 14:33:55,829  INFO [main] HeroImageFunctionality:164 - Sorting by rating Functionality Working Properly
+2019-10-15 14:34:04,895  INFO [main] HeroImageFunctionality:169 - Sorting by rating Functionality Working Properly
+2019-10-15 14:34:05,223  INFO [main] HeroImageFunctionality:169 - Sorting by rating Functionality Working Properly
+2019-10-15 14:34:05,539  INFO [main] HeroImageFunctionality:169 - Sorting by rating Functionality Working Properly
+2019-10-15 14:34:10,211 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 14:34:10,211 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 14:34:10,215 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 14:34:10,215 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 14:34:10,215 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 14:34:10,555 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 14:34:10,555 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 14:34:10,555 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 14:34:10,559 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 14:34:10,559 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 14:34:39,669  INFO [main] HomePageSearchBoxFunctionality:45 - Page is redirecting to proper web page
+2019-10-15 14:34:42,690  INFO [main] HomePageSearchBoxFunctionality:61 - Product title validate successfully
+2019-10-15 14:34:47,239  INFO [main] HomePageSearchBoxFunctionality:80 - Negative input validation passed
+2019-10-15 14:35:12,534  INFO [main] HeroImageFunctionality:76 - description validate successfully
+2019-10-15 14:35:13,086  INFO [main] HeroImageFunctionality:60 - specification validate successfully
+2019-10-15 14:35:19,361  INFO [main] HeroImageFunctionality:112 - Sorting by date Functionality Working Properly
+2019-10-15 14:35:19,583  INFO [main] HeroImageFunctionality:112 - Sorting by date Functionality Working Properly
+2019-10-15 14:35:19,831  INFO [main] HeroImageFunctionality:112 - Sorting by date Functionality Working Properly
+2019-10-15 14:35:29,435  INFO [main] HeroImageFunctionality:117 - Sorting by date Functionality Working Properly
+2019-10-15 14:35:29,856  INFO [main] HeroImageFunctionality:117 - Sorting by date Functionality Working Properly
+2019-10-15 14:35:30,208  INFO [main] HeroImageFunctionality:117 - Sorting by date Functionality Working Properly
+2019-10-15 14:35:39,811  INFO [main] HeroImageFunctionality:164 - Sorting by rating Functionality Working Properly
+2019-10-15 14:35:39,996  INFO [main] HeroImageFunctionality:164 - Sorting by rating Functionality Working Properly
+2019-10-15 14:35:40,216  INFO [main] HeroImageFunctionality:164 - Sorting by rating Functionality Working Properly
+2019-10-15 14:35:49,701  INFO [main] HeroImageFunctionality:169 - Sorting by rating Functionality Working Properly
+2019-10-15 14:35:49,967  INFO [main] HeroImageFunctionality:169 - Sorting by rating Functionality Working Properly
+2019-10-15 14:35:50,191  INFO [main] HeroImageFunctionality:169 - Sorting by rating Functionality Working Properly
+2019-10-15 14:36:13,736  INFO [main] ComuterPeripheralsFunctionality:35 - Error Message validate successfully
+2019-10-15 14:36:23,297  INFO [main] ComuterPeripheralsFunctionality:54 - Product title validate successfully
+2019-10-15 14:36:23,297  INFO [main] ComuterPeripheralsFunctionality:57 - Product price validate successfully
+2019-10-15 14:36:23,381  INFO [main] ComuterPeripheralsFunctionality:54 - Product title validate successfully
+2019-10-15 14:36:23,381  INFO [main] ComuterPeripheralsFunctionality:57 - Product price validate successfully
+2019-10-15 14:36:50,410  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:36:50,441  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:36:50,473  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:36:50,505  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:36:58,863  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:36:58,901  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:36:58,933  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:37:07,980  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:37:08,012  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:37:08,044  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:37:08,068  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:37:08,100  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:37:18,761  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:37:22,608 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 14:37:22,608 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 14:37:22,612 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 14:37:22,612 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 14:37:22,612 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 14:37:23,072 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 14:37:23,072 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 14:37:23,072 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 14:37:23,076 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 14:37:23,076 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 14:45:56,019  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:45:56,064  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:45:56,108  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:45:56,144  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:04,103  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:04,156  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:04,208  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:04,260  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:04,316  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:04,368  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:14,355  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:14,404  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:14,448  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:23,121  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:23,165  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:23,213  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:23,253  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:23,297  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:23,341  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:46:27,501 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 14:46:27,505 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 14:46:27,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 14:46:27,517 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 14:46:27,517 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 14:46:27,889 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 14:46:27,893 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 14:46:27,893 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 14:46:27,893 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 14:46:27,893 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 14:56:13,143  INFO [main] HeroImageFunctionality:76 - description validate successfully
+2019-10-15 14:56:13,614  INFO [main] HeroImageFunctionality:60 - specification validate successfully
+2019-10-15 14:56:20,131  INFO [main] HeroImageFunctionality:113 - Sorting by date Functionality Working Properly
+2019-10-15 14:56:20,503  INFO [main] HeroImageFunctionality:113 - Sorting by date Functionality Working Properly
+2019-10-15 14:56:30,085  INFO [main] HeroImageFunctionality:118 - Sorting by date Functionality Working Properly
+2019-10-15 14:56:30,409  INFO [main] HeroImageFunctionality:118 - Sorting by date Functionality Working Properly
+2019-10-15 14:56:39,986  INFO [main] HeroImageFunctionality:165 - Sorting by rating Functionality Working Properly
+2019-10-15 14:56:40,162  INFO [main] HeroImageFunctionality:165 - Sorting by rating Functionality Working Properly
+2019-10-15 14:56:49,090  INFO [main] HeroImageFunctionality:170 - Sorting by rating Functionality Working Properly
+2019-10-15 14:56:49,304  INFO [main] HeroImageFunctionality:170 - Sorting by rating Functionality Working Properly
+2019-10-15 14:56:53,017 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 14:56:53,021 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 14:56:53,025 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 14:56:53,029 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 14:56:53,029 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 14:56:53,653 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 14:56:53,657 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 14:56:53,657 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 14:56:53,661 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 14:56:53,661 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 14:58:50,242  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:58:50,423  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:58:50,631  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:58:50,879  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:59:03,296  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:59:03,483  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:59:03,677  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:59:16,801  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:59:17,049  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:59:17,313  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:59:29,747  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 14:59:30,448 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 14:59:30,448 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 14:59:30,452 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 14:59:30,452 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 14:59:30,452 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 14:59:30,748 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 14:59:30,751 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 14:59:30,751 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 14:59:30,752 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 14:59:30,752 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 15:11:28,719  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:28,751  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:28,783  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:28,823  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:37,077  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:37,110  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:37,146  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:37,178  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:37,214  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:47,221  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:47,266  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:47,314  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:56,016  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:56,083  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:56,151  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:56,203  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:11:56,259  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:12:00,651 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 15:12:00,655 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 15:12:00,655 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 15:12:00,659 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 15:12:00,659 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 15:12:01,027 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 15:12:01,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 15:12:01,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 15:12:01,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 15:12:01,031 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 15:22:22,090  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:22:22,132  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:22:22,168  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:22:22,212  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:22:29,929  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:22:29,972  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:22:30,011  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:22:30,051  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:22:30,095  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:22:39,673  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:22:39,713  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:22:39,749  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:22:48,929  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:22:52,303 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 15:22:52,307 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 15:22:52,307 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 15:22:52,315 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 15:22:52,315 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 15:22:52,787 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 15:22:52,787 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 15:22:52,791 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 15:22:52,791 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 15:22:52,791 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 15:25:03,157  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:25:03,220  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:25:03,276  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:25:03,344  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:25:10,078  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:25:10,117  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:25:10,149  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:25:10,177  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:25:10,217  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:25:18,040  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:25:22,020 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 15:25:22,020 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 15:25:22,024 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 15:25:22,028 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 15:25:22,028 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 15:25:22,499 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 15:25:22,499 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 15:25:22,503 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 15:25:22,503 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 15:25:22,503 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 15:34:02,043  INFO [main] HeroImageFunctionality:76 - description validate successfully
+2019-10-15 15:34:02,805  INFO [main] HeroImageFunctionality:60 - specification validate successfully
+2019-10-15 15:34:09,359  INFO [main] HeroImageFunctionality:113 - Sorting by date Functionality Working Properly
+2019-10-15 15:34:09,621  INFO [main] HeroImageFunctionality:113 - Sorting by date Functionality Working Properly
+2019-10-15 15:34:09,834  INFO [main] HeroImageFunctionality:113 - Sorting by date Functionality Working Properly
+2019-10-15 15:34:19,167  INFO [main] HeroImageFunctionality:118 - Sorting by date Functionality Working Properly
+2019-10-15 15:34:19,407  INFO [main] HeroImageFunctionality:118 - Sorting by date Functionality Working Properly
+2019-10-15 15:34:19,645  INFO [main] HeroImageFunctionality:118 - Sorting by date Functionality Working Properly
+2019-10-15 15:34:27,716  INFO [main] HeroImageFunctionality:165 - Sorting by rating Functionality Working Properly
+2019-10-15 15:34:27,860  INFO [main] HeroImageFunctionality:165 - Sorting by rating Functionality Working Properly
+2019-10-15 15:34:27,997  INFO [main] HeroImageFunctionality:165 - Sorting by rating Functionality Working Properly
+2019-10-15 15:34:36,495  INFO [main] HeroImageFunctionality:170 - Sorting by rating Functionality Working Properly
+2019-10-15 15:34:36,702  INFO [main] HeroImageFunctionality:170 - Sorting by rating Functionality Working Properly
+2019-10-15 15:34:36,904  INFO [main] HeroImageFunctionality:170 - Sorting by rating Functionality Working Properly
+2019-10-15 15:34:41,304 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 15:34:41,305 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 15:34:41,308 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 15:34:41,309 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 15:34:41,309 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 15:34:41,656 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 15:34:41,657 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 15:34:41,658 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 15:34:41,659 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 15:34:41,659 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 15:35:13,784  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:35:13,822  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:35:13,858  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:35:13,905  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:35:19,688  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:35:19,721  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:35:19,756  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:35:19,791  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:35:19,833  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:35:26,759  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:35:26,792  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:35:26,826  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:35:26,858  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:35:26,895  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:35:34,550  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:35:39,888 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 15:35:39,891 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 15:35:39,893 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 15:35:39,895 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 15:35:39,895 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 15:35:40,346 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 15:35:40,348 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 15:35:40,349 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 15:35:40,351 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 15:35:40,351 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 15:37:46,555  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:46,621  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:46,667  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:46,714  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:46,746  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:46,780  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:46,812  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:46,848  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:46,881  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:46,917  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:46,952  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:46,995  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:54,165  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:54,196  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:54,225  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:54,256  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:54,293  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:54,327  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:54,356  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:54,391  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:54,422  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:54,469  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:54,499  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:37:54,533  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:01,339  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:01,373  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:01,409  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:01,442  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:01,491  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:01,531  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:01,572  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:01,615  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:01,656  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:01,691  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:01,724  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:01,761  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:08,900  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:08,947  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:08,997  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:09,053  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:09,094  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:09,147  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:09,181  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:09,222  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:09,261  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:09,292  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:09,327  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:09,372  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 15:38:13,473 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 15:38:13,474 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 15:38:13,476 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 15:38:13,477 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 15:38:13,478 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 15:38:13,956 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 15:38:13,957 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 15:38:13,958 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 15:38:13,958 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 15:38:13,959 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 16:01:44,429  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:01:44,458  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:01:44,489  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:01:44,536  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:01:50,812  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:01:50,847  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:01:50,879  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:01:50,911  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:01:57,314  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:01:57,346  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:01:57,386  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:01:57,410  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:02:03,257  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:02:03,298  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:02:03,330  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:02:03,362  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:02:03,398  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:02:08,025 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 16:02:08,025 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 16:02:08,029 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 16:02:08,033 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 16:02:08,033 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 16:02:08,385 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 16:02:08,385 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 16:02:08,385 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 16:02:08,385 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 16:02:08,385 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 16:07:02,381  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:07:02,419  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:07:02,451  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:07:02,487  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:07:08,862  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:07:08,897  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:07:08,935  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:07:08,971  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:07:09,008  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:07:09,039  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:07:15,535  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:07:21,906  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:07:25,206 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 16:07:25,208 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 16:07:25,211 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 16:07:25,212 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 16:07:25,214 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 16:07:25,554 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 16:07:25,554 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 16:07:25,555 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 16:07:25,557 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 16:07:25,557 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 16:08:22,391  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:08:22,428  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:08:22,464  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:08:22,498  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:08:27,719  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:08:27,750  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:08:27,783  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:08:27,815  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:08:27,855  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:08:35,387  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:08:41,448  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:08:45,067 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 16:08:45,069 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 16:08:45,070 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 16:08:45,072 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 16:08:45,072 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 16:08:45,386 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 16:08:45,387 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 16:08:45,388 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 16:08:45,388 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 16:08:45,388 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 16:10:26,424  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:10:26,458  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:10:26,496  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:10:26,541  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:10:32,334  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:10:32,365  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:10:32,397  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:10:32,428  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:10:32,460  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:10:39,232  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:10:39,258  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:10:39,283  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:10:39,309  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:10:39,338  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:10:43,176 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 16:10:43,177 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 16:10:43,180 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 16:10:43,181 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 16:10:43,182 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 16:10:43,509 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 16:10:43,510 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 16:10:43,511 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 16:10:43,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 16:10:43,514 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 16:13:02,003  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:13:02,035  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:13:02,062  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:13:02,088  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:13:08,478  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:13:08,502  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:13:08,526  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:13:14,791  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:13:14,815  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:13:14,840  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:13:20,970  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:13:21,029 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 16:13:21,030 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 16:13:21,032 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 16:13:21,033 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 16:13:21,034 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 16:13:21,350 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 16:13:21,350 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 16:13:21,351 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 16:13:21,352 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 16:13:21,353 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 16:16:54,028  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:16:54,186  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:16:54,339  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:16:54,502  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:17:02,862  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:17:03,066  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:17:03,259  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:17:11,594  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:17:11,747  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:17:11,895  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:17:20,217  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:17:20,266 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 16:17:20,267 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 16:17:20,272 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 16:17:20,274 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 16:17:20,275 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 16:17:20,599 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 16:17:20,600 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 16:17:20,600 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 16:17:20,601 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 16:17:20,601 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 16:27:41,656  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:27:41,717  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:27:41,776  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:27:41,827  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:27:49,596  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:27:49,630  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:27:49,663  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:27:56,407  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:27:56,439  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:27:56,474  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:28:03,392  INFO [main] PriceSlideBarFunctionality:60 - Price slidebar fuctionality validate successfully
+2019-10-15 16:28:03,437 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 16:28:03,438 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 16:28:03,440 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 16:28:03,441 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 16:28:03,441 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-15 16:28:03,750 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-15 16:28:03,751 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-15 16:28:03,752 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-15 16:28:03,753 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-15 16:28:03,753 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

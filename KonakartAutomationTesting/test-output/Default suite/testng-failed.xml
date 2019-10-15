@@ -3,16 +3,16 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality">
+      <class name="com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality">
         <methods>
           <include name="tearDown"/>
           <include name="endReport"/>
           <include name="intitailizeBrowser"/>
           <include name="startReport"/>
+          <include name="priceSlideBar" invocation-numbers="1 2"/>
           <include name="closeDriver"/>
-          <include name="heroImgSortingRatingFunctionality" invocation-numbers="0"/>
         </methods>
-      </class> <!-- com.Konakart.KonakartAutomationTesting.testscripts.HeroImageFunctionality -->
+      </class> <!-- com.Konakart.KonakartAutomationTesting.testscripts.PriceSlideBarFunctionality -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -11,9 +11,23 @@ import com.Konakart.KonakartAutomationTesting.extentreports.ExtentReport;
 import com.Konakart.KonakartAutomationTesting.helpers.Utility;
 import com.Konakart.KonakartAutomationTesting.logreports.LogReport;
 
+/**
+ * This class check computer peripheral option functionality.
+ * 
+ * @author arjun.santra
+ *
+ */
 public class ComputerperipheralFunction {
 	static LogReport logreport = new LogReport();
 
+	/**
+	 * This method validate that if any wrong input given by the user that time web
+	 * application throw a error message or not
+	 * 
+	 * @param validatedata
+	 * @param log
+	 * @param loc
+	 */
 	public static void erroMsgValidation(String validatedata, Logger log, Properties loc) {
 		String erromsg = Utility.getElement(loc.getProperty("loc.konakart.erromsg.txt")).getText();
 		Assert.assertTrue(erromsg.contains(validatedata), "Erro message validation failed");
@@ -21,6 +35,13 @@ public class ComputerperipheralFunction {
 		log.info("Error Message validate successfully");
 	}
 
+	/**
+	 * This method validate the product name and price.
+	 * 
+	 * @param data
+	 * @param log
+	 * @param loc
+	 */
 	public static void productValidation(String[] data, Logger log, Properties loc) {
 		List<WebElement> producttitlelist = Utility.getElementsList(loc.getProperty("loc.konakart.product.title"));
 		List<WebElement> productpricelist = Utility.getElementsList(loc.getProperty("loc.konakart.product.price"));

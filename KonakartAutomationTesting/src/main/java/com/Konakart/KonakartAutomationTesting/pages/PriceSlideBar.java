@@ -11,29 +11,43 @@ import com.Konakart.KonakartAutomationTesting.extentreports.ExtentReport;
 import com.Konakart.KonakartAutomationTesting.helpers.Utility;
 import com.Konakart.KonakartAutomationTesting.logreports.LogReport;
 
-
+/**
+ * This class check the price slide bar functionality.
+ * 
+ * @author arjun.santra
+ *
+ */
 public class PriceSlideBar {
 	static LogReport logreport = new LogReport();
 
+	/**
+	 * This method move the price slide bar according to given input value.
+	 * 
+	 * @param xoffset
+	 * @param loc
+	 */
 	public static void priceSlideBar(String xoffset, Properties loc) {
 		Utility.clickElement(loc.getProperty("loc.konakart.hearder.computerperipherals"));
-		Utility.scrollDownPage(0, 300);
-		Utility.setAttributeValue(loc.getProperty("loc.konakart.priceslider"),
-				Integer.parseInt(xoffset));
+		Utility.scrollDownPage(0, 400);
+		Utility.setAttributeValue(loc.getProperty("loc.konakart.priceslider"), Integer.parseInt(xoffset));
 		try {
-			Thread.sleep(5000);
+			Thread.sleep(3000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
 
-	public static void priceValidation(Logger log,Properties loc) {
-		List<WebElement> prices = Utility
-				.getElementsList(loc.getProperty("loc.koanakart.pricesacordingslidebar"));
-//		int pricecount = prices.size();
-		String[] pricerange = Utility.getElement(loc.getProperty("loc.konakart.pricerange"))
-				.getText().split("-");
+	/**
+	 * This method validate that all the available products prices are in that price
+	 * slide bar range.
+	 * 
+	 * @param log
+	 * @param loc
+	 */
+	public static void priceValidation(Logger log, Properties loc) {
+		List<WebElement> prices = Utility.getElementsList(loc.getProperty("loc.koanakart.pricesacordingslidebar"));
+		String[] pricerange = Utility.getElement(loc.getProperty("loc.konakart.pricerange")).getText().split("-");
 		String minprice = pricerange[0].replace("$", "");
 		String maxprice = pricerange[1].replace("$", "");
 		for (WebElement price : prices) {
